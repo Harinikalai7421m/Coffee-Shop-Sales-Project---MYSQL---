@@ -2,7 +2,7 @@
 This data analyst project aims to provide actionable insights into the monthly sales performance of a coffee shop. By analyzing various aspects of the sales data, the project identifies key metrics such as total sales, sales trends, average sales, and total orders. The objective is to gain a comprehensive understanding of the sales performance and deliver data-driven recommendations to support informed decision-making.
 
 ## Data Source
-Sales data: The primary dataset used for this analysis is the        file containing detailed information about each sales, unit price, product name of the coffee.
+Sales data: The primary dataset used for this analysis is the  Coffee Shop Sales file containing detailed information about each sales, unit price, product name of the coffee.
 
 ## Tools
 
